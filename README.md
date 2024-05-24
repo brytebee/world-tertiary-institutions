@@ -172,7 +172,3 @@ This API provides a flexible and efficient way to search for universities by nam
 ---
 
 Feel free to reach out if you have any questions or need further assistance with the University API.
-
-```
-
-```
