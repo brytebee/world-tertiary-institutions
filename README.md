@@ -8,13 +8,13 @@ The University API provides access to a comprehensive list of universities world
 
 ```
 
-http://localhost:3000/api/universities
+http://localhost:3000/api/v1/universities
 
 ```
 
 ## Endpoints
 
-### GET /api/universities
+### GET /api/v1/universities
 
 Retrieve a list of universities based on query parameters.
 
@@ -29,7 +29,7 @@ Retrieve a list of universities based on query parameters.
 #### Example Request
 
 ```sh
-GET /api/universities?name=Sabanci&page=1&limit=10
+GET /api/v1/universities?name=Sabanci&page=1&limit=10
 ```
 
 #### Example Response
@@ -103,19 +103,19 @@ The university data is sourced from the [Hipo University Domains List](https://g
 ### Search by University Name
 
 ```sh
-GET /api/universities?name=Harvard
+GET /api/v1/universities?name=Harvard
 ```
 
 ### Search by Country
 
 ```sh
-GET /api/universities?country=United States
+GET /api/v1/universities?country=United States
 ```
 
 ### Search by State/Province
 
 ```sh
-GET /api/universities?state=California
+GET /api/v1/universities?state=California
 ```
 
 ### Combined Search
@@ -123,7 +123,7 @@ GET /api/universities?state=California
 Search by name, state/province, and country to narrow down the results.
 
 ```sh
-GET /api/universities?name=University&state=California&country=United States
+GET /api/v1/universities?name=University&state=California&country=United States
 ```
 
 ### Pagination Example
@@ -131,7 +131,7 @@ GET /api/universities?name=University&state=California&country=United States
 Retrieve the second page of results with 10 universities per page.
 
 ```sh
-GET /api/universities?page=2&limit=10
+GET /api/v1/universities?page=2&limit=10
 ```
 
 ## Limitations
