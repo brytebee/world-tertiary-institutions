@@ -1,0 +1,247 @@
+[
+  {
+    "level": "undergrad",
+    "title": "Bachelor's Degree",
+    "accr": "B.A., B.S., B.Ed., BEng, etc."
+  },
+  {
+    "level": "undergrad",
+    "title": "Associate Degree",
+    "accr": "A.A., A.S., etc."
+  },
+  {
+    "level": "undergrad",
+    "title": "Foundation Degree",
+    "accr": "FdA, FdSc, etc."
+  },
+  {
+    "level": "undergrad",
+    "title": "Diploma",
+    "accr": ""
+  },
+  {
+    "level": "undergrad",
+    "title": "Higher National Diploma",
+    "accr": "HND"
+  },
+  {
+    "level": "undergrad",
+    "title": "National Diploma",
+    "accr": "ND"
+  },
+  {
+    "level": "undergrad",
+    "title": "Ordinary National Diploma",
+    "accr": "OND"
+  },
+  {
+    "level": "undergrad",
+    "title": "Certificate of Higher Education",
+    "accr": ""
+  },
+  {
+    "level": "undergrad",
+    "title": "Advanced Diploma",
+    "accr": ""
+  },
+  {
+    "level": "undergrad",
+    "title": "Professional Degree",
+    "accr": "e.g., BArch for architecture"
+  },
+  {
+    "level": "postgrad",
+    "title": "Master's Degree",
+    "accr": "M.A., M.S., M.Ed., MEng, etc."
+  },
+  {
+    "level": "postgrad",
+    "title": "Postgraduate Diploma",
+    "accr": "PGD"
+  },
+  {
+    "level": "postgrad",
+    "title": "Graduate Diploma",
+    "accr": ""
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Business Administration",
+    "accr": "MBA"
+  },
+  {
+    "level": "postgrad",
+    "title": "Executive Master of Business Administration",
+    "accr": "EMBA"
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Laws",
+    "accr": "LL.M."
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Philosophy",
+    "accr": "M.Phil."
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Research",
+    "accr": "M.Res."
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Fine Arts",
+    "accr": "MFA"
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Public Administration",
+    "accr": "MPA"
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Public Health",
+    "accr": "MPH"
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Social Work",
+    "accr": "MSW"
+  },
+  {
+    "level": "postgrad",
+    "title": "Master of Science in Nursing",
+    "accr": "MSN"
+  },
+  {
+    "level": "postgrad",
+    "title": "Doctor of Medicine",
+    "accr": "MD"
+  },
+  {
+    "level": "postgrad",
+    "title": "Doctor of Dental Surgery",
+    "accr": "DDS"
+  },
+  {
+    "level": "postgrad",
+    "title": "Juris Doctor",
+    "accr": "JD"
+  },
+  {
+    "level": "postgrad",
+    "title": "Doctor of Pharmacy",
+    "accr": "Pharm.D."
+  },
+  {
+    "level": "postgrad",
+    "title": "Doctor of Veterinary Medicine",
+    "accr": "DVM"
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Philosophy",
+    "accr": "Ph.D."
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Education",
+    "accr": "Ed.D."
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Psychology",
+    "accr": "Psy.D."
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Business Administration",
+    "accr": "DBA"
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Engineering",
+    "accr": "Eng.D."
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Nursing Practice",
+    "accr": "DNP"
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Medicine",
+    "accr": "MD"
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Dental Surgery",
+    "accr": "DDS"
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Juridical Science",
+    "accr": "SJD"
+  },
+  {
+    "level": "doctoral",
+    "title": "Doctor of Veterinary Medicine",
+    "accr": "DVM"
+  },
+  {
+    "level": "certification",
+    "title": "Chartered Accountant",
+    "accr": "CA"
+  },
+  {
+    "level": "certification",
+    "title": "Certified Public Accountant",
+    "accr": "CPA"
+  },
+  {
+    "level": "certification",
+    "title": "Chartered Financial Analyst",
+    "accr": "CFA"
+  },
+  {
+    "level": "certification",
+    "title": "Project Management Professional",
+    "accr": "PMP"
+  },
+  {
+    "level": "certification",
+    "title": "Certified Information Systems Auditor",
+    "accr": "CISA"
+  },
+  {
+    "level": "certification",
+    "title": "Certified Management Accountant",
+    "accr": "CMA"
+  },
+  {
+    "level": "certification",
+    "title": "Chartered Institute of Personnel and Development",
+    "accr": "CIPD"
+  },
+  {
+    "level": "certification",
+    "title": "Chartered Engineer",
+    "accr": "CEng"
+  },
+  {
+    "level": "certification",
+    "title": "Chartered Marketer",
+    "accr": "CM"
+  },
+  {
+    "level": "certification",
+    "title": "Certified Financial Planner",
+    "accr": "CFP"
+  },
+  {
+    "level": "certification",
+    "title": "Certified Fraud Examiner",
+    "accr": "CFE"
+  }
+]

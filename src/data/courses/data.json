@@ -1,0 +1,3837 @@
+[
+  {
+    "title": "American Association for Respiratory Care Fellow",
+    "reference": "AARCF",
+    "level": "certification"
+  },
+  {
+    "title": "American Registry for Radiologic Technologists",
+    "reference": "AART",
+    "level": "certification"
+  },
+  {
+    "title": "Applied Cognitive Psychology",
+    "reference": "ACP",
+    "level": "certification"
+  },
+  {
+    "title": "AIDS Certified Registered Nurse",
+    "reference": "ACRN",
+    "level": "certification"
+  },
+  {
+    "title": "Adult Nurse Practitioner",
+    "reference": "ANP",
+    "level": "certification"
+  },
+  {
+    "title": "Advanced Oncology Certified Nurse",
+    "reference": "AOCN",
+    "level": "certification"
+  },
+  {
+    "title": "American Oncology Certified Nurse",
+    "reference": "AOCN",
+    "level": "certification"
+  },
+  {
+    "title": "Advanced Oncology Certified Nurse Practitioner",
+    "reference": "AOCNP",
+    "level": "certification"
+  },
+  {
+    "title": "Advanced Project Management Certification",
+    "reference": "APMC",
+    "level": "certification"
+  },
+  {
+    "title": "Advanced Practice Nurse",
+    "reference": "APN",
+    "level": "certification"
+  },
+  {
+    "title": "Advanced Practice Nurse Prescriber",
+    "reference": "APNP",
+    "level": "certification"
+  },
+  {
+    "title": "Advanced Practice Registered Nurse",
+    "reference": "APRN",
+    "level": "certification"
+  },
+  {
+    "title": "Advanced Registered Nurse Practitioner",
+    "reference": "ARNP",
+    "level": "certification"
+  },
+  {
+    "title": "American Registry of Radiologic Technologists",
+    "reference": "ARRT",
+    "level": "certification"
+  },
+  {
+    "title": "Accredited Record Technologist",
+    "reference": "ART",
+    "level": "certification"
+  },
+  {
+    "title": "American Society for Clinical Pathology",
+    "reference": "ASCP",
+    "level": "certification"
+  },
+  {
+    "title": "American Society of Nuclear Cardiology",
+    "reference": "ASNC",
+    "level": "certification"
+  },
+  {
+    "title": "American Society for Psychoprophylaxis in Obstetrics",
+    "reference": "ASPO",
+    "level": "certification"
+  },
+  {
+    "title": "Athletic Trainer, Certified",
+    "reference": "ATC",
+    "level": "certification"
+  },
+  {
+    "title": "Bach of Arts of Business Administration",
+    "reference": "BABA",
+    "level": "certification"
+  },
+  {
+    "title": "Board Certified - Palliative Care Management",
+    "reference": "BCPCM",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Ambulatory Post-Anesthesia Nurse",
+    "reference": "CAPA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Addiction Registered Nurse",
+    "reference": "CARN",
+    "level": "certification"
+  },
+  {
+    "title": "Chemical and Biological Engineering",
+    "reference": "CBE",
+    "level": "certification"
+  },
+  {
+    "title": "Certificate in Breast Imaging",
+    "reference": "CBI",
+    "level": "certification"
+  },
+  {
+    "title": "Certificate of Clinical Competency",
+    "reference": "CCC",
+    "level": "certification"
+  },
+  {
+    "title": "Certificate of Clinical Competence in Audiology",
+    "reference": "CCCA",
+    "level": "certification"
+  },
+  {
+    "title": "Certificate of Clinical Competance in Speech language pathology",
+    "reference": "CCCSLP",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Continence Care Nurse",
+    "reference": "CCCN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Childbirth Educator",
+    "reference": "CCE",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Cancer Exercise Specialist",
+    "reference": "CCES",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Case Manager",
+    "reference": "CCM",
+    "level": "certification"
+  },
+  {
+    "title": "Critical Care Nurse Specialist",
+    "reference": "CCNS",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Clinical Perfusionist",
+    "reference": "CCP",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Cardiovascular Perfusionist",
+    "reference": "CCP",
+    "level": "certification"
+  },
+  {
+    "title": "Critical Care Registered Nurse",
+    "reference": "CCRN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Chiropractic Sports Physician",
+    "reference": "CCSP",
+    "level": "certification"
+  },
+  {
+    "title": "Chiropractic Certification in Spinal Trauma",
+    "reference": "CCST",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Cardiovascular Technologist",
+    "reference": "CCVT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Doula",
+    "reference": "CD",
+    "level": "certification"
+  },
+  {
+    "title": "Clinical Dietitian",
+    "reference": "CD",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Dental Assistant",
+    "reference": "CDA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Dialysis Nurse",
+    "reference": "CDN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Emergency Nurse",
+    "reference": "CEN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Enterostomal Therapy Nurse",
+    "reference": "CETN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Family Nurse Practitioner",
+    "reference": "CFNP",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Flight Registered Nurse",
+    "reference": "CFRN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Gastroenterology Nurse",
+    "reference": "CGN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Gastroenterology Registered Nurse",
+    "reference": "CGRN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Gastroenterology Technician",
+    "reference": "CGT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Health Education Specialist",
+    "reference": "CHES",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Hemodialysis Nurse",
+    "reference": "CHN",
+    "level": "certification"
+  },
+  {
+    "title": "certified hospice and palliative nurse",
+    "reference": "CHPN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Health Unit Coordinator",
+    "reference": "CHUC",
+    "level": "certification"
+  },
+  {
+    "title": "Certified in Infection Control",
+    "reference": "CIC",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Laboratory Assistant",
+    "reference": "CLA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Licensed Practitioner Nursing, Intravenous",
+    "reference": "CLPNI",
+    "level": "certification"
+  },
+  {
+    "title": "Clinical Laboratory Specialist",
+    "reference": "CLS",
+    "level": "certification"
+  },
+  {
+    "title": "Clinical Laboratory Scientist",
+    "reference": "CLS",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Laboratory Scientist",
+    "reference": "CLS",
+    "level": "certification"
+  },
+  {
+    "title": "Clinical Laboratory Technician",
+    "reference": "CLT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Laboratory Technician",
+    "reference": "CLT",
+    "level": "certification"
+  },
+  {
+    "title": "Chirurgiae Magister",
+    "reference": "CM",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Midwife",
+    "reference": "CM",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Medical Assistant",
+    "reference": "CMA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Medical Assistant - Administrative",
+    "reference": "CMAA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Medical Assistant, Clinical",
+    "reference": "CMAC",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Medical-Surgical Registered Nurse",
+    "reference": "CMSRN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Nursing Assistant",
+    "reference": "CNA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified in Nursing Administration",
+    "reference": "CNA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified in Nursing Administration, Advanced",
+    "reference": "CNAA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Nursing Director of Long-Term Care",
+    "reference": "CNDLTC",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Nurse Midwifery",
+    "reference": "CNM",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Nuclear Medical Technologist",
+    "reference": "CNMT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Nephrology Nurse",
+    "reference": "CNN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Nurse Practitioner",
+    "reference": "CNP",
+    "level": "certification"
+  },
+  {
+    "title": "Community Nurse Practitioner",
+    "reference": "CNP",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Neuroscience Registered Nurse",
+    "reference": "CNRN",
+    "level": "certification"
+  },
+  {
+    "title": "Clinical Nurse Specialist",
+    "reference": "CNS",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Nutrition Support Nurse",
+    "reference": "CNSN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Orthotist",
+    "reference": "CO",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Ostomy Care Nurse",
+    "reference": "COCN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Occupational Health Nurse",
+    "reference": "COHN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Occupational Health Nurse - Specialist",
+    "reference": "COHNS",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Ophthalmic Medical Assistant",
+    "reference": "COMA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Otorhinolaryngology Nurse",
+    "reference": "CORLN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Operating Room Nurse",
+    "reference": "CORN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Occupational Therapy Assistant",
+    "reference": "COTA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Prosthetist",
+    "reference": "CP",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Prosthetist/Orthotist",
+    "reference": "CPO",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Post Anesthesia Nurse",
+    "reference": "CPAN",
+    "level": "certification"
+  },
+  {
+    "title": "Counseling Psychology and Counselor Education",
+    "reference": "CPCE",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Peritoneal Dialysis Nurse",
+    "reference": "CPDN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Pulmonary Function Technologist",
+    "reference": "CPFT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Pediatric Nurse",
+    "reference": "CPN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Pediatric Nurse Practioner",
+    "reference": "CPNP",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Pediatric Oncology Nurse",
+    "reference": "CPON",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Plastic Surgical Nurse",
+    "reference": "CPSN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Radiologic Nurse",
+    "reference": "CRN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified registered nurse anesthetist",
+    "reference": "CRNA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Registered Nurse First Assistant",
+    "reference": "CRNFA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Registered Hospice Nurse",
+    "reference": "CRNH",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Registered Nurse Infusion",
+    "reference": "CRNI",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Registered Nurse in Ophthalmology",
+    "reference": "CRNO",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Rehabilitation Registered Nurse",
+    "reference": "CRRN",
+    "level": "certification"
+  },
+  {
+    "title": "certified rehabilitation registered nurse – advanced",
+    "reference": "CRRNA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Respiratory Therapist",
+    "reference": "CRT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Respiratory Therapy Technician",
+    "reference": "CRTT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified School Nurse",
+    "reference": "CSN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Surgical Technologist",
+    "reference": "CST",
+    "level": "certification"
+  },
+  {
+    "title": "Cytotechnologist",
+    "reference": "CT",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Urologic Clinical Nurse Specialist",
+    "reference": "CUCNS",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Urologic Nurse Practitioner",
+    "reference": "CUNP",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Urology Registered Nurse",
+    "reference": "CURN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Wound Care Nurse",
+    "reference": "CWCN",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Wound, Ostomy, Continence Nurse",
+    "reference": "CWOCN",
+    "level": "certification"
+  },
+  {
+    "title": "Dental Assistant",
+    "reference": "DA",
+    "level": "certification"
+  },
+  {
+    "title": "Diploma in Child Health",
+    "reference": "DCH",
+    "level": "certification"
+  },
+  {
+    "title": "Diploma in Clinical Pathology",
+    "reference": "DCP",
+    "level": "certification"
+  },
+  {
+    "title": "Diploma in Diagnostic Radiology",
+    "reference": "DDR",
+    "level": "certification"
+  },
+  {
+    "title": "Dermatology Nurse Certified",
+    "reference": "DNC",
+    "level": "certification"
+  },
+  {
+    "title": "Director Of Nursing",
+    "reference": "DON",
+    "level": "certification"
+  },
+  {
+    "title": "Education Specialist Certificate",
+    "reference": "ESC",
+    "level": "certification"
+  },
+  {
+    "title": "Education Specialist",
+    "reference": "EDS",
+    "level": "certification"
+  },
+  {
+    "title": "Electroencephalographic Technologist",
+    "reference": "EEGT",
+    "level": "certification"
+  },
+  {
+    "title": "Extraordinary Masochistic Tendencies (joke At Expense Of Emergency Medical Technicians)",
+    "reference": "EMT",
+    "level": "certification"
+  },
+  {
+    "title": "Emergency Medical Technician-Basic",
+    "reference": "EMTB",
+    "level": "certification"
+  },
+  {
+    "title": "Emergency Medical Technician-Defibrillation",
+    "reference": "EMTD",
+    "level": "certification"
+  },
+  {
+    "title": "Emergency Medical Technician - Intermediate",
+    "reference": "EMTI",
+    "level": "certification"
+  },
+  {
+    "title": "Emergency Medical Technician - Paramedic",
+    "reference": "EMTP",
+    "level": "certification"
+  },
+  {
+    "title": "Emergency Medical Technician-Paramedic",
+    "reference": "EMTP",
+    "level": "certification"
+  },
+  {
+    "title": "Emergency Nurse Practitioner",
+    "reference": "ENP",
+    "level": "certification"
+  },
+  {
+    "title": "Enterostomal Therapist",
+    "reference": "ET",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Academy of Allergy and Immunology",
+    "reference": "FAAAI",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american academy of family physicians",
+    "reference": "FAAFP",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Academy of Nursing",
+    "reference": "FAAN",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Academy of Neurology",
+    "reference": "FAAN",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Academy of Osteopathy",
+    "reference": "FAAO",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Academy of Ophthalmology",
+    "reference": "FAAO",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Academy of Orthopedic Surgeons",
+    "reference": "FAAOS",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Academy of Pediatrics",
+    "reference": "FAAP",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american college of allergy, asthma & immunology",
+    "reference": "FACAAI",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american college of cardiology",
+    "reference": "FACC",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American College of Chest Physicians",
+    "reference": "FACCP",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american college of dentists",
+    "reference": "FACD",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American College of Endocrinology",
+    "reference": "FACE",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American College of Emergency Physicians",
+    "reference": "FACEP",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american college of gastroenterology",
+    "reference": "FACG",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow Of The American College Of Obstetrics And Gynecology",
+    "reference": "FACOG",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow American College of Osteopathic Obstetricians and Gynecologists",
+    "reference": "FACOOG",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american college of physicians",
+    "reference": "FACP",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American College of Preventive Medicine",
+    "reference": "FACPM",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American College of Radiology",
+    "reference": "FACR",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american college of surgeons",
+    "reference": "FACS",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American College of Sports Medicine",
+    "reference": "FACSM",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the Academy of General Dentistry",
+    "reference": "FAGD",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Medical Association",
+    "reference": "FAMA",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Occupational Therapy Association",
+    "reference": "FAOTA",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the american psychiatric association",
+    "reference": "FAPA",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the American Public Health Association",
+    "reference": "FAPHA",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the college of american pathologists",
+    "reference": "FCAP",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of Critical Care Medicine",
+    "reference": "FCCM",
+    "level": "certification"
+  },
+  {
+    "title": "fellow of the college of physicians and surgeons",
+    "reference": "FCPS",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow in Dental Surgery",
+    "reference": "FDS",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow Of The Faculty Of Anaesthetists",
+    "reference": "FFA",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the Faculty of Anaesthetists of the Royal College of Surgeons",
+    "reference": "FFARCS",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the International Chiropractic Association",
+    "reference": "FICA",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the International College of Chiropractors",
+    "reference": "FICC",
+    "level": "certification"
+  },
+  {
+    "title": "Fellow of the International College of Surgeons",
+    "reference": "FICS",
+    "level": "certification"
+  },
+  {
+    "title": "Family Nurse Practitioner",
+    "reference": "FNP",
+    "level": "certification"
+  },
+  {
+    "title": "Histologic Technician",
+    "reference": "HT",
+    "level": "certification"
+  },
+  {
+    "title": "Histotechnologist",
+    "reference": "HTL",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Acupuncturist",
+    "reference": "LAC",
+    "level": "certification"
+  },
+  {
+    "title": "Laboratory Animal Technician",
+    "reference": "LAT",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Athletic Trainer",
+    "reference": "LAT",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Athletic Trainer, Certified",
+    "reference": "LATC",
+    "level": "certification"
+  },
+  {
+    "title": "Lighting Certified",
+    "reference": "LC",
+    "level": "certification"
+  },
+  {
+    "title": "Lamaze Certified Childbirth Educator",
+    "reference": "LCCE",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Clinical Professional Counselor",
+    "reference": "LCPC",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Clinical Social Worker",
+    "reference": "LCSW",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Dietitian Nutritionist",
+    "reference": "LDN",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Dispensing Optician",
+    "reference": "LDO",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Midwife",
+    "reference": "LM",
+    "level": "certification"
+  },
+  {
+    "title": "Legal Nurse Consultant",
+    "reference": "LNC",
+    "level": "certification"
+  },
+  {
+    "title": "Legal Nurse Consultant Certified",
+    "reference": "LNCC",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed professional counselor",
+    "reference": "LPC",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Practice Nurse",
+    "reference": "LPN",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Physical Therapy",
+    "reference": "LPT",
+    "level": "certification"
+  },
+  {
+    "title": "Licentiate of the Royal College of Physicians of London",
+    "reference": "LRCP",
+    "level": "certification"
+  },
+  {
+    "title": "Licentiate of the Royal College of Surgeons",
+    "reference": "LRCS",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Visiting Nurse",
+    "reference": "LVN",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Vocational Nurse",
+    "reference": "LVN",
+    "level": "certification"
+  },
+  {
+    "title": "Medical Examiner",
+    "reference": "ME",
+    "level": "certification"
+  },
+  {
+    "title": "Marriage and Family Therapist",
+    "reference": "MFT",
+    "level": "certification"
+  },
+  {
+    "title": "Medical Laboratory Technician",
+    "reference": "MLT",
+    "level": "certification"
+  },
+  {
+    "title": "Medical Library Technician",
+    "reference": "MLT",
+    "level": "certification"
+  },
+  {
+    "title": "member of the Royal College of Physicians",
+    "reference": "MRCP",
+    "level": "certification"
+  },
+  {
+    "title": "member of the Royal College of Surgeons",
+    "reference": "MRCS",
+    "level": "certification"
+  },
+  {
+    "title": "medical records librarian",
+    "reference": "MRL",
+    "level": "certification"
+  },
+  {
+    "title": "Medical Record Technician",
+    "reference": "MRT",
+    "level": "certification"
+  },
+  {
+    "title": "Medical Technologist",
+    "reference": "MT",
+    "level": "certification"
+  },
+  {
+    "title": "Medical Technologist Assistant",
+    "reference": "MTA",
+    "level": "certification"
+  },
+  {
+    "title": "Medicas Veterinarius",
+    "reference": "MV",
+    "level": "certification"
+  },
+  {
+    "title": "Nuclear Cardiology Technologist",
+    "reference": "NCT",
+    "level": "certification"
+  },
+  {
+    "title": "Nuclear Medicine Technologist",
+    "reference": "NMT",
+    "level": "certification"
+  },
+  {
+    "title": "Nurse Massage Therapist",
+    "reference": "NMT",
+    "level": "certification"
+  },
+  {
+    "title": "Nurse Practitioner",
+    "reference": "NP",
+    "level": "certification"
+  },
+  {
+    "title": "Nationally Registered Paramedic",
+    "reference": "NREMTP",
+    "level": "certification"
+  },
+  {
+    "title": "Oncology Certified Nurse",
+    "reference": "OCN",
+    "level": "certification"
+  },
+  {
+    "title": "Orthopedic Clinical Specialist",
+    "reference": "OCS",
+    "level": "certification"
+  },
+  {
+    "title": "Occupational Health Nursing Clinical Specialist",
+    "reference": "OHNCS",
+    "level": "certification"
+  },
+  {
+    "title": "Orthopedic Nurse Certified",
+    "reference": "ONC",
+    "level": "certification"
+  },
+  {
+    "title": "Occupational Therapist - Canada",
+    "reference": "OTC",
+    "level": "certification"
+  },
+  {
+    "title": "Occupational Therapist Assistant",
+    "reference": "OTA",
+    "level": "certification"
+  },
+  {
+    "title": "Orthopedic Technician, Certified",
+    "reference": "OTC",
+    "level": "certification"
+  },
+  {
+    "title": "Occupational Therapist Licensed",
+    "reference": "OTL",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Occupational Therapist",
+    "reference": "OTR",
+    "level": "certification"
+  },
+  {
+    "title": "Licensed Occupational Therapist",
+    "reference": "OTRL",
+    "level": "certification"
+  },
+  {
+    "title": "Post-Baccalaureate Certificate",
+    "reference": "PBC",
+    "level": "certification"
+  },
+  {
+    "title": "Physician Assistant",
+    "reference": "PA",
+    "level": "certification"
+  },
+  {
+    "title": "Certified Physician's Assistant",
+    "reference": "PAC",
+    "level": "certification"
+  },
+  {
+    "title": "Physician's Assistant Certified",
+    "reference": "PAC",
+    "level": "certification"
+  },
+  {
+    "title": "Graduate in Pharmacy",
+    "reference": "PHARMG",
+    "level": "certification"
+  },
+  {
+    "title": "Public Health Nurse",
+    "reference": "PHN",
+    "level": "certification"
+  },
+  {
+    "title": "Pediatric Nurse Practitioner",
+    "reference": "PNP",
+    "level": "certification"
+  },
+  {
+    "title": "Physical Therapy Assistant",
+    "reference": "PTA",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Dietician",
+    "reference": "RD",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Dietitian",
+    "reference": "RD",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Dental Assistant",
+    "reference": "RDA",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Diagnostic Cardiac Sonographer",
+    "reference": "RDCS",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Dental Hygienist",
+    "reference": "RDH",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Diagnostic Medical Sonographer",
+    "reference": "RDMS",
+    "level": "certification"
+  },
+  {
+    "title": "Radiologic Electroencephalography Technologist",
+    "reference": "REEGT",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Evoked Potentials Technologist",
+    "reference": "REPT",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Health Information Administrator",
+    "reference": "RHIA",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Health Information Technician",
+    "reference": "RHIT",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Medical Assistant",
+    "reference": "RMA",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Nurse",
+    "reference": "RN",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Nurse Anesthetist",
+    "reference": "RNA",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Nurse Certified",
+    "reference": "RNC",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Nurse Clinical Specialist",
+    "reference": "RNCS",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Nurse Practitioner",
+    "reference": "RNP",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Ophthalmic Ultrasound Biometrist",
+    "reference": "ROUB",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Pharmacist",
+    "reference": "RPH",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Physical Therapist",
+    "reference": "RPT",
+    "level": "certification"
+  },
+  {
+    "title": "registered record administrator",
+    "reference": "RRA",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Respiratory Therapist",
+    "reference": "RRT",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Technologist",
+    "reference": "RT",
+    "level": "certification"
+  },
+  {
+    "title": "Recreation Therapist",
+    "reference": "RT",
+    "level": "certification"
+  },
+  {
+    "title": "Radiologic Technologist",
+    "reference": "RT",
+    "level": "certification"
+  },
+  {
+    "title": "Radiologic Technologist with specialization in Nuclear Medicine",
+    "reference": "RTN",
+    "level": "certification"
+  },
+  {
+    "title": "Radiologic Technologist with specialization in Radiology",
+    "reference": "RTR",
+    "level": "certification"
+  },
+  {
+    "title": "Radiologic Technologist with specialization in Radiation",
+    "reference": "RTT",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Recreational Therapist",
+    "reference": "RTR",
+    "level": "certification"
+  },
+  {
+    "title": "Registered Vascular Technologist",
+    "reference": "RVT",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist Certificate",
+    "reference": "SC",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Library and Information Science",
+    "reference": "SPL",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Blood Banking",
+    "reference": "SBB",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Chemistry",
+    "reference": "SC",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Cytotechnology",
+    "reference": "SCT",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Hematology",
+    "reference": "SH",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Laboratory Safety",
+    "reference": "SLS",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Microbiology",
+    "reference": "SM",
+    "level": "certification"
+  },
+  {
+    "title": "Surgical Technician",
+    "reference": "ST",
+    "level": "certification"
+  },
+  {
+    "title": "Specialist in Virology",
+    "reference": "SV",
+    "level": "certification"
+  },
+  {
+    "title": "Teaching Certificate",
+    "reference": "TC",
+    "level": "certification"
+  },
+  {
+    "title": "Veterinary Technician",
+    "reference": "VT",
+    "level": "certification"
+  },
+  {
+    "title": "Women's Health Nurse Practitioner",
+    "reference": "WHNP",
+    "level": "certification"
+  },
+  {
+    "title": "Bachelor of Liberal Arts",
+    "reference": "ALB",
+    "level": "bachelor"
+  },
+  {
+    "title": "Doctor of Musical Arts",
+    "reference": "AMUSD",
+    "level": "doctor"
+  },
+  {
+    "title": "Associate of Arts",
+    "reference": "AA",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Applied Arts",
+    "reference": "AAA",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Applied Business",
+    "reference": "AAB",
+    "level": "associate"
+  },
+  {
+    "title": "Associate in Allied Health",
+    "reference": "AAH",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Arts in Nursing",
+    "reference": "AAN",
+    "level": "associate"
+  },
+  {
+    "title": "Associate in Applied Science",
+    "reference": "AAS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Arts and Sciences",
+    "reference": "AAS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Arts in Teaching",
+    "reference": "AAT",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Applied Technology",
+    "reference": "AAT",
+    "level": "associate"
+  },
+  {
+    "title": "Associate in Business",
+    "reference": "AB",
+    "level": "associate"
+  },
+  {
+    "title": "Bachelor of Arts",
+    "reference": "AB",
+    "level": "bachelor"
+  },
+  {
+    "title": "Associate of Business Administration",
+    "reference": "ABA",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree",
+    "reference": "AD",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Building Design",
+    "reference": "ADBLDGDES",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Building Surveying",
+    "reference": "ADBLDGSURV",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Business",
+    "reference": "ADBUS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Engineering",
+    "reference": "ADENG",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Information Technology",
+    "reference": "ADIT",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Journalism",
+    "reference": "ADJOUR",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Learning Management",
+    "reference": "ADLM",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Multimedia Studies",
+    "reference": "ADMMST",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree in Nursing",
+    "reference": "ADN",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Engineering",
+    "reference": "AE",
+    "level": "associate"
+  },
+  {
+    "title": "Alternate Entry Master of Science in Nursing",
+    "reference": "AEMSN",
+    "level": "master"
+  },
+  {
+    "title": "Associate of Engineering Science",
+    "reference": "AES",
+    "level": "associate"
+  },
+  {
+    "title": "Associate in Engineering Technology",
+    "reference": "AET",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Forestry",
+    "reference": "AF",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Fine Arts",
+    "reference": "AFA",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of General Studies",
+    "reference": "AGS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Industrial Technology",
+    "reference": "AIT",
+    "level": "associate"
+  },
+  {
+    "title": "Master of Liberal Arts",
+    "reference": "ALM",
+    "level": "master"
+  },
+  {
+    "title": "Associate in Medical Science",
+    "reference": "AMSC",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Nursing",
+    "reference": "AN",
+    "level": "associate"
+  },
+  {
+    "title": "Associate in Occupational Studies",
+    "reference": "AOS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate in Occupational Technology",
+    "reference": "AOT",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Public Service",
+    "reference": "APS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Political science",
+    "reference": "APS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate in Physical Therapy",
+    "reference": "APT",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Science",
+    "reference": "AS",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Science in Dental Hygiene",
+    "reference": "ASDN",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Science in Nursing",
+    "reference": "ASN",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Computing",
+    "reference": "ASSOCDEGCOMP",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Technology",
+    "reference": "ASSOCDEGTECH",
+    "level": "associate"
+  },
+  {
+    "title": "Associate Degree of Technology Management",
+    "reference": "ASSOCDEGTECHMGT",
+    "level": "associate"
+  },
+  {
+    "title": "Associate of Technology",
+    "reference": "AT",
+    "level": "associate"
+  },
+  {
+    "title": "Doctor of Audiology",
+    "reference": "AUD",
+    "level": "doctor"
+  },
+  {
+    "title": "Bachelor of Applied Arts",
+    "reference": "BAA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Applied Arts and Sciences",
+    "reference": "BAAS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Arts in Communication",
+    "reference": "BACOM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Aerospace Engineering",
+    "reference": "BAE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Arts and Economics",
+    "reference": "BAE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Economics",
+    "reference": "BAECON",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Arts in Education",
+    "reference": "BAED",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Applied Studies",
+    "reference": "BAS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Applied Science",
+    "reference": "BAS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Architectural Studies",
+    "reference": "BAS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Art & Technology",
+    "reference": "BAT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Applied Technology",
+    "reference": "BATECH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Accountancy",
+    "reference": "BACC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Agricultural Science",
+    "reference": "BAGRSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Applied Finance",
+    "reference": "BAPPFIN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Architecture",
+    "reference": "BARCH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Asian Studies",
+    "reference": "BAS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Business Analysis - Financial",
+    "reference": "BBAFIN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Business Administration",
+    "reference": "BBA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Built Environment",
+    "reference": "BBE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Biosystems Engineering",
+    "reference": "BBE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Behavioural Neuroscience",
+    "reference": "BBNSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Business",
+    "reference": "BBUS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Commerce and Administration",
+    "reference": "BCA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Civil Engineering",
+    "reference": "BCE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Computer Information Systems",
+    "reference": "BCIS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Criminal Justice",
+    "reference": "BCJ",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Computer and Mathematical Sciences",
+    "reference": "BCM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Computing & Mathematical Sciences",
+    "reference": "BCMS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Surgery",
+    "reference": "BCH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Chemical Engineering",
+    "reference": "BCHEE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Commerce",
+    "reference": "BCOM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Communication",
+    "reference": "BCOMN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Computing",
+    "reference": "BCOMP",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Computer Operations Technology",
+    "reference": "BCOT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Communications Studies",
+    "reference": "BCS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Design",
+    "reference": "BDES",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Engineering",
+    "reference": "BE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Electrical Engineering",
+    "reference": "BEE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Electronics Engineering Technology",
+    "reference": "BEET",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Environmental Studies",
+    "reference": "BES",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Finance & Economics",
+    "reference": "BECONFIN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Economic Science",
+    "reference": "BECONSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Education",
+    "reference": "BED",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Environmental Design",
+    "reference": "BEND",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Fine Arts",
+    "reference": "BFA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Finance",
+    "reference": "BFIN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of General Studies",
+    "reference": "BGS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Game & Simulation Programming",
+    "reference": "BGSP",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Humanities and Arts",
+    "reference": "BHA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Hotel Management",
+    "reference": "BHM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Health Science",
+    "reference": "BHS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Health Sciences",
+    "reference": "BHSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Interior Architecture",
+    "reference": "BIARCH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Integrated Studies",
+    "reference": "BIS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Interdisciplinary Studies",
+    "reference": "BIS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Industrial and Science Engineering",
+    "reference": "BISE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Information Technology",
+    "reference": "BIT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Industrial Design",
+    "reference": "BINDSN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Information Science",
+    "reference": "BINFSCI",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of International Studies",
+    "reference": "BINTST",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Journalism",
+    "reference": "BJ",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Landscape Architecture",
+    "reference": "BLARCH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Liberal Studies",
+    "reference": "BLS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Languages",
+    "reference": "BLANG",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Music",
+    "reference": "BM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Mechanical Engineering",
+    "reference": "BME",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Music Education",
+    "reference": "BMED",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Materials Engineering",
+    "reference": "BMTLE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Public Affairs",
+    "reference": "BPA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Polymer and Fiber Engineering",
+    "reference": "BPFE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Professional Health Science",
+    "reference": "BPHS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science",
+    "reference": "BS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Aerospace Engineering",
+    "reference": "BSAE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Business Administration",
+    "reference": "BSBA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Biomedical Engineering",
+    "reference": "BSBME",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Commerce Business Administration",
+    "reference": "BSCBA",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Civil Engineering",
+    "reference": "BSCE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Computer & Information Sciences",
+    "reference": "BSCIS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Computer Science",
+    "reference": "BSCS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Computer Technology",
+    "reference": "BSCT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Chemical Engineering",
+    "reference": "BSCHEE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Chemistry",
+    "reference": "BSCHEM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Engineering",
+    "reference": "BSE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Electrical Engineering",
+    "reference": "BSEE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Engineering Technology",
+    "reference": "BSET",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Education",
+    "reference": "BSED",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Geology",
+    "reference": "BSGEO",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Human Environmental Sciences",
+    "reference": "BSHES",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Mechanical Engineering",
+    "reference": "BSME",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Manufacturing Engineering Technology",
+    "reference": "BSMFT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Metallurgical Engineering",
+    "reference": "BSMET",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Microbiology",
+    "reference": "BSMICR",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Materials Engineering",
+    "reference": "BSMTE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Nursing",
+    "reference": "BSN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Social Work",
+    "reference": "BSSW",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Social Work",
+    "reference": "BSW",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Software Engineering",
+    "reference": "BSWE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Textile Engineering",
+    "reference": "BTE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Technical & Interdisciplinary Studies",
+    "reference": "BTIS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Textile Management and Technology",
+    "reference": "BTMT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Wireless Engineering",
+    "reference": "BWE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Arts for Teaching",
+    "reference": "BAT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Aviation",
+    "reference": "BAVN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Biomedical Science",
+    "reference": "BBIOMEDSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Business Information Systems",
+    "reference": "BBIS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Dental Surgery",
+    "reference": "BCHD",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Surgery Degree",
+    "reference": "BCHIR",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Civil Law",
+    "reference": "BCL",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Counseling",
+    "reference": "BCOUN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Divinity",
+    "reference": "BD",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Divisionnity",
+    "reference": "BD",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Dental Science",
+    "reference": "BDSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Economics and Finance",
+    "reference": "BECONFIN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Health & Physical Education",
+    "reference": "BHPE",
+    "level": "bachelor"
+  },
+  {
+    "title": "bachelor of hygiene",
+    "reference": "BHYG",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Information and Communications Technology",
+    "reference": "BICT",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Kinesiology",
+    "reference": "BKIN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Music (degree)",
+    "reference": "BM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Medicine",
+    "reference": "BM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Biomedical science",
+    "reference": "BMEDSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Medical Science",
+    "reference": "BMEDSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Midwifery",
+    "reference": "BMID",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Ministry",
+    "reference": "BMIN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Nursing",
+    "reference": "BN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Nursing Science",
+    "reference": "BNSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Physical Education",
+    "reference": "BPE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Pharmacy",
+    "reference": "BPHARM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Philosophy",
+    "reference": "BPHIL",
+    "level": "bachelor"
+  },
+  {
+    "title": "bachelor of public health nursing",
+    "reference": "BPHN",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Professional Studies",
+    "reference": "BPS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Religious Education",
+    "reference": "BRE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Religious Studies",
+    "reference": "BRS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science (clear in education line)",
+    "reference": "BS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science (university degree)",
+    "reference": "BSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science and/with Education",
+    "reference": "BSCED",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Economics",
+    "reference": "BSCECON",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Psychology",
+    "reference": "BSCPSYCH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Environmental Health",
+    "reference": "BSEH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Family and Consumer Sciences",
+    "reference": "BSFC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in General Studies",
+    "reference": "BSGS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Law",
+    "reference": "BSL",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Medicine",
+    "reference": "BSM",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Nuclear Engineering",
+    "reference": "BSNE",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Social Science",
+    "reference": "BSOCSC",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Public Health",
+    "reference": "BSPH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Teaching",
+    "reference": "BTCHG",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Technology",
+    "reference": "BTECH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Theology",
+    "reference": "BTH",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Veterinary Medicine",
+    "reference": "BVETMED",
+    "level": "bachelor"
+  },
+  {
+    "title": "Bachelor of Veterinary Medicine and Science",
+    "reference": "BVMS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Doctor of Surgery",
+    "reference": "CHD",
+    "level": "doctor"
+  },
+  {
+    "title": "Master in Surgery",
+    "reference": "CM",
+    "level": "master"
+  },
+  {
+    "title": "Doctor of Arts",
+    "reference": "DA",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Applied Science",
+    "reference": "DAS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Architecture",
+    "reference": "DARCH",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Business Administration",
+    "reference": "DBA",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Criminal Justice",
+    "reference": "DCJ",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Comparative Law",
+    "reference": "DCL",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Civil Law",
+    "reference": "DCL",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Computer Science",
+    "reference": "DCS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Chemistry",
+    "reference": "DCHEM",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Criminology",
+    "reference": "DCRIM",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Engineering Science",
+    "reference": "DESC",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Engineering",
+    "reference": "DENG",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Environmental Science and Engineering",
+    "reference": "DENV",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Forestry",
+    "reference": "DF",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Fine Arts",
+    "reference": "DFA",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Geological Science",
+    "reference": "DGS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Health Education",
+    "reference": "DHED",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Hebrew Literature/Letters",
+    "reference": "DHL",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Health and Safety",
+    "reference": "DHS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Hebrew Studies",
+    "reference": "DHS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Humane Letters",
+    "reference": "DHUMLITT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Information Technology",
+    "reference": "DIT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Industrial Technology",
+    "reference": "DIT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Law and Policy",
+    "reference": "DLP",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Library Science",
+    "reference": "DLS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Literature and Philosophy",
+    "reference": "DLITTETPHIL",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Ministry",
+    "reference": "DM",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Musical Education",
+    "reference": "DME",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Modern Languages",
+    "reference": "DML",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Medical Science",
+    "reference": "DMSC",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Music Therapy",
+    "reference": "DMT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Music",
+    "reference": "DMUS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Naprapathic Medicine",
+    "reference": "DN",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Nursing Science",
+    "reference": "DNS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Public Administration",
+    "reference": "DPA",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Physical Education",
+    "reference": "DPE",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Public Health",
+    "reference": "DPH",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Professional Studies",
+    "reference": "DPS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Physical Therapy",
+    "reference": "DPT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Recreation",
+    "reference": "DR",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Sacred Music",
+    "reference": "DSM",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Social Science",
+    "reference": "DSSC",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Social Work",
+    "reference": "DSW",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Science",
+    "reference": "DSC",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Science in Dentistry",
+    "reference": "DSCD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Science and Hygiene",
+    "reference": "DSCH",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Science in Veterinary Medicine",
+    "reference": "DSCVM",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Chiropractic",
+    "reference": "DC",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Clinical Psychology",
+    "reference": "DCLINPSYCH",
+    "level": "doctor"
+  },
+  {
+    "title": "Divinitatis Doctor",
+    "reference": "DD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Divisionnity",
+    "reference": "DD",
+    "level": "doctor"
+  },
+  {
+    "title": "Divisionnitatis Doctor",
+    "reference": "DD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Divinity",
+    "reference": "DD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Dental Surgery",
+    "reference": "DDS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Dental Science",
+    "reference": "DDSC",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Literature",
+    "reference": "DLIT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Letters",
+    "reference": "DLITT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Medicine",
+    "reference": "DM",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Dental Medicine",
+    "reference": "DMD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Medical Education",
+    "reference": "DME",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Medical Technology",
+    "reference": "DMT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Veterinary Medicine",
+    "reference": "DMV",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Nursing",
+    "reference": "DN",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Nursing Education",
+    "reference": "DNE",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Osteopathy",
+    "reference": "DO",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Ocular Science",
+    "reference": "DOS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Pharmacy",
+    "reference": "DP",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Philosophy",
+    "reference": "DPHIL",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Public Health Nursing",
+    "reference": "DPHN",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Pediatric Medicine",
+    "reference": "DPM",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Practical Theology",
+    "reference": "DPT",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Design",
+    "reference": "DRDES",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of the University",
+    "reference": "DUNIV",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Veterinary Medicine & Surgery",
+    "reference": "DVMS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Veterinary Radiology",
+    "reference": "DVR",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Veterinary Science",
+    "reference": "DVS",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Education",
+    "reference": "EDD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Canon Law",
+    "reference": "JCD",
+    "level": "doctor"
+  },
+  {
+    "title": "Juris Doctor",
+    "reference": "JD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Juridical Science",
+    "reference": "JSD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of the Science of Law",
+    "reference": "LSCD",
+    "level": "doctor"
+  },
+  {
+    "title": "doctor of letters",
+    "reference": "LITTD",
+    "level": "doctor"
+  },
+  {
+    "title": "Master of Laws",
+    "reference": "LLM",
+    "level": "master"
+  },
+  {
+    "title": "Legum Baccalaureus (Latin: Bachelor Of Laws)",
+    "reference": "LLB",
+    "level": "bachelor"
+  },
+  {
+    "title": "doctor of laws",
+    "reference": "LLD",
+    "level": "doctor"
+  },
+  {
+    "title": "Licensed Master of Social Work",
+    "reference": "LMSW",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts in Education",
+    "reference": "MAED",
+    "level": "master"
+  },
+  {
+    "title": "Master of Education",
+    "reference": "MED",
+    "level": "master"
+  },
+  {
+    "title": "Master of Fine Arts",
+    "reference": "MFA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Interdisciplinary Studies",
+    "reference": "MIS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Library and Information Science",
+    "reference": "MLIS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Ministry",
+    "reference": "MMIN",
+    "level": "master"
+  },
+  {
+    "title": "Master of Music",
+    "reference": "MMUS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Occupational Therapy",
+    "reference": "MOT",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Engineering Technology",
+    "reference": "MSET",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Education",
+    "reference": "MSED",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Nursing",
+    "reference": "MSN",
+    "level": "master"
+  },
+  {
+    "title": "Master of Social Work",
+    "reference": "MSW",
+    "level": "master"
+  },
+  {
+    "title": "Master of Urban Planning",
+    "reference": "MUP",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts",
+    "reference": "MA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Applied Anthropology",
+    "reference": "MAA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Accountancy",
+    "reference": "MACC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts in Christian Education",
+    "reference": "MACE",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts in international economics and finance",
+    "reference": "MAIEF",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts in International Hotel Management",
+    "reference": "MAIHM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts in Liberal Studies",
+    "reference": "MALS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts Management",
+    "reference": "MAM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts in Public Service",
+    "reference": "MAPS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts in Professional Writing",
+    "reference": "MAPW",
+    "level": "master"
+  },
+  {
+    "title": "Master of Architecture",
+    "reference": "MARCH",
+    "level": "master"
+  },
+  {
+    "title": "Master of Archival Studies",
+    "reference": "MAS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Engineering",
+    "reference": "MASC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Applied Sciences",
+    "reference": "MASC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Arts and Teaching",
+    "reference": "MAT",
+    "level": "master"
+  },
+  {
+    "title": "Master of Business Administration",
+    "reference": "MBA",
+    "level": "master"
+  },
+  {
+    "title": "Medicinae Baccalaureus, Baccalaureus Chirurgiae (Latin: Bachelor of Medicine, Bachelor of Surgery)",
+    "reference": "MBBS",
+    "level": "bachelor"
+  },
+  {
+    "title": "Master of Biochemistry",
+    "reference": "MBIOCHEM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Biology",
+    "reference": "MBIOL",
+    "level": "master"
+  },
+  {
+    "title": "Master of Biological Science",
+    "reference": "MBIOLSCI",
+    "level": "master"
+  },
+  {
+    "title": "Master of Surgery",
+    "reference": "MC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Chemistry",
+    "reference": "MCHEM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Criminal Justice",
+    "reference": "MCJ",
+    "level": "master"
+  },
+  {
+    "title": "Master of Clinical Dentistry",
+    "reference": "MCLINDENT",
+    "level": "master"
+  },
+  {
+    "title": "Master of Clinical Medical Science",
+    "reference": "MCMSC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Divisionnity",
+    "reference": "MDIV",
+    "level": "master"
+  },
+  {
+    "title": "Master of Divinity",
+    "reference": "MDIV",
+    "level": "master"
+  },
+  {
+    "title": "Master of Digital Media",
+    "reference": "MDM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Drama",
+    "reference": "MDRAMA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Dental Surgery",
+    "reference": "MDS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Electronic Business",
+    "reference": "MEB",
+    "level": "master"
+  },
+  {
+    "title": "Master of Economics",
+    "reference": "MECON",
+    "level": "master"
+  },
+  {
+    "title": "Master of Environmental Design",
+    "reference": "MEDES",
+    "level": "master"
+  },
+  {
+    "title": "Master of Environmental Science",
+    "reference": "MENVSCI",
+    "level": "master"
+  },
+  {
+    "title": "Master of Environmental Studies",
+    "reference": "MES",
+    "level": "master"
+  },
+  {
+    "title": "Master of Earth Science",
+    "reference": "MESCI",
+    "level": "master"
+  },
+  {
+    "title": "Master of Educational Technology",
+    "reference": "MET",
+    "level": "master"
+  },
+  {
+    "title": "Master of Fine Art",
+    "reference": "MFA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Forensic Sciences",
+    "reference": "MFS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Geography",
+    "reference": "MGEOG",
+    "level": "master"
+  },
+  {
+    "title": "Master of Geology",
+    "reference": "MGEOL",
+    "level": "master"
+  },
+  {
+    "title": "Master of Geophysics",
+    "reference": "MGEOPHYS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Health Administration",
+    "reference": "MHA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Health Education",
+    "reference": "MHE",
+    "level": "master"
+  },
+  {
+    "title": "Master of Health Science",
+    "reference": "MHS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Industrial Design",
+    "reference": "MID",
+    "level": "master"
+  },
+  {
+    "title": "Master of International Development",
+    "reference": "MID",
+    "level": "master"
+  },
+  {
+    "title": "Master of Management in the Network Economy",
+    "reference": "MINE",
+    "level": "master"
+  },
+  {
+    "title": "Master of Informatics",
+    "reference": "MINF",
+    "level": "master"
+  },
+  {
+    "title": "Master of Information Systems Management",
+    "reference": "MISM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Jurisprudence",
+    "reference": "MJUR",
+    "level": "master"
+  },
+  {
+    "title": "Master of Labor and Human Resources",
+    "reference": "MLHR",
+    "level": "master"
+  },
+  {
+    "title": "Master of Librarianship",
+    "reference": "MLIB",
+    "level": "master"
+  },
+  {
+    "title": "Master of Library and Information Science degree",
+    "reference": "MLIS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Letters",
+    "reference": "MLITT",
+    "level": "master"
+  },
+  {
+    "title": "Master of Library Science",
+    "reference": "MLS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Liberal Studies",
+    "reference": "MLS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Mathematics",
+    "reference": "MMATH",
+    "level": "master"
+  },
+  {
+    "title": "Master of Mathematics and Physics",
+    "reference": "MMATHPHYS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Mass Communications",
+    "reference": "MMC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Music Education",
+    "reference": "MME",
+    "level": "master"
+  },
+  {
+    "title": "Master of Mathematics, Operational Research, Statistics and Economics",
+    "reference": "MMORSE",
+    "level": "master"
+  },
+  {
+    "title": "Master of Marketing Research",
+    "reference": "MMR",
+    "level": "master"
+  },
+  {
+    "title": "Master of Medical Science",
+    "reference": "MMS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Management Sciences",
+    "reference": "MMSC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Nursing",
+    "reference": "MN",
+    "level": "master"
+  },
+  {
+    "title": "Master of Natural Science",
+    "reference": "MNATSC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Nursing Science",
+    "reference": "MNURSSCI",
+    "level": "master"
+  },
+  {
+    "title": "Master of Oceanography",
+    "reference": "MOCEAN",
+    "level": "master"
+  },
+  {
+    "title": "Master of Pharmacy Administration",
+    "reference": "MPA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Public Administration",
+    "reference": "MPA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Professional Accountancy",
+    "reference": "MPA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Physician Assistant Studies",
+    "reference": "MPAS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Pharmacy",
+    "reference": "MPH",
+    "level": "master"
+  },
+  {
+    "title": "Master of Public Health",
+    "reference": "MPH",
+    "level": "master"
+  },
+  {
+    "title": "master of pharmacy",
+    "reference": "MPHARM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Philosophy",
+    "reference": "MPHIL",
+    "level": "master"
+  },
+  {
+    "title": "Master of Physics",
+    "reference": "MPHYS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Pacific International Affairs",
+    "reference": "MPIA",
+    "level": "master"
+  },
+  {
+    "title": "Master of Planning",
+    "reference": "MPLAN",
+    "level": "master"
+  },
+  {
+    "title": "Master of Project Management",
+    "reference": "MPM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Public Management",
+    "reference": "MPM",
+    "level": "master"
+  },
+  {
+    "title": "Master of Public Policy",
+    "reference": "MPP",
+    "level": "master"
+  },
+  {
+    "title": "Master of Professional Studies",
+    "reference": "MPROFSTUDS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Physical Therapy",
+    "reference": "MPT",
+    "level": "master"
+  },
+  {
+    "title": "Master of Radiology",
+    "reference": "MRAD",
+    "level": "master"
+  },
+  {
+    "title": "Master of Research",
+    "reference": "MRES",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science",
+    "reference": "MS",
+    "level": "master"
+  },
+  {
+    "title": "Master in Science",
+    "reference": "MSCI",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Dentistry",
+    "reference": "MSD",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Engineering",
+    "reference": "MSE",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Electrical Engineering",
+    "reference": "MSEE",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Environmental Health",
+    "reference": "MSEH",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Finance",
+    "reference": "MSF",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Information",
+    "reference": "MSI",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Information Systems",
+    "reference": "MSIS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Information Studies",
+    "reference": "MSIS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Library Science",
+    "reference": "MSLS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Sacred Music",
+    "reference": "MSM",
+    "level": "master"
+  },
+  {
+    "title": "Master Of Science In Nursing",
+    "reference": "MSN",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Natural Sciences",
+    "reference": "MSNS",
+    "level": "master"
+  },
+  {
+    "title": "Master of Social Science",
+    "reference": "MSOCSC",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science In Organizational Leadership",
+    "reference": "MSOL",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Public Health",
+    "reference": "MSPH",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Strategic Leadership",
+    "reference": "MSSL",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Social Work",
+    "reference": "MSSW",
+    "level": "master"
+  },
+  {
+    "title": "Master of Studies",
+    "reference": "MST",
+    "level": "master"
+  },
+  {
+    "title": "Master of Science in Taxation",
+    "reference": "MST",
+    "level": "master"
+  },
+  {
+    "title": "Master of Statistics",
+    "reference": "MSTAT",
+    "level": "master"
+  },
+  {
+    "title": "Master of Theology",
+    "reference": "MTH",
+    "level": "master"
+  },
+  {
+    "title": "Master of the University",
+    "reference": "MUNIV",
+    "level": "master"
+  },
+  {
+    "title": "Master of Urban Studies",
+    "reference": "MURB",
+    "level": "master"
+  },
+  {
+    "title": "Master of Urban and Regional Planning",
+    "reference": "MURP",
+    "level": "master"
+  },
+  {
+    "title": "Doctor of Naturopathy",
+    "reference": "ND",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Optometry",
+    "reference": "OD",
+    "level": "doctor"
+  },
+  {
+    "title": "Post Master's Graduate Certificate",
+    "reference": "PMGC",
+    "level": "master"
+  },
+  {
+    "title": "Doctor of Psychology",
+    "reference": "PSYD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Rehabilitation",
+    "reference": "RHD",
+    "level": "doctor"
+  },
+  {
+    "title": "Doctor of Sacred Theology",
+    "reference": "STD",
+    "level": "doctor"
+  },
+  {
+    "title": "Scientiar Baccalaureus, Bachelor of Science",
+    "reference": "SCB",
+    "level": "bachelor"
+  },
+  {
+    "title": "Doctor of Theology",
+    "reference": "THD",
+    "level": "doctor"
+  },
+  {
+    "title": "Veterinary Medical Doctor",
+    "reference": "VMD",
+    "level": "doctor"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Psychology",
+    "reference": "BP"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Organizational Leadership and Supervision",
+    "reference": "BOLAS"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Retailing and Consumer Science",
+    "reference": "BRACS"
+  },
+  {
+    "level": "master",
+    "title": "Master of Administration and Supervision-Higher Education",
+    "reference": "MAASE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Curriculum and Instruction-Mathematics Education",
+    "reference": "MCAIE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Special Education",
+    "reference": "MSE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Construction Management",
+    "reference": "MCM"
+  },
+  {
+    "level": "master",
+    "title": "Master of Foresight",
+    "reference": "MF"
+  },
+  {
+    "level": "certificate",
+    "title": "Corporate Entrepreneurship",
+    "reference": "CE"
+  },
+  {
+    "level": "certificate",
+    "title": "Designing and Developing Educational Graphics",
+    "reference": "DADEG"
+  },
+  {
+    "level": "certificate",
+    "title": "Designing and Developing Educational Multimedia",
+    "reference": "DADEM"
+  },
+  {
+    "level": "certificate",
+    "title": "Online Teaching and Learning",
+    "reference": "OTAL"
+  },
+  {
+    "level": "certificate",
+    "title": "Computational Math Option",
+    "reference": "CMO"
+  },
+  {
+    "level": "certificate",
+    "title": "Financial Math Option",
+    "reference": "FMO"
+  },
+  {
+    "level": "certificate",
+    "title": "Mathematical Statistics Option",
+    "reference": "MSO"
+  },
+  {
+    "level": "certificate",
+    "title": "Construction Management (Post-baccalaureate/graduate certificate)",
+    "reference": "CM(C"
+  },
+  {
+    "level": "certificate",
+    "title": "Retailing and Consumer Science",
+    "reference": "RACS"
+  },
+  {
+    "level": "certificate",
+    "title": "Strategic Foresight (Post-baccalaureate/graduate certificate)",
+    "reference": "SF(C"
+  },
+  {
+    "level": "certificate",
+    "title": "Advanced Subsea Engineering",
+    "reference": "ASE"
+  },
+  {
+    "level": "certificate",
+    "title": "Subsea Engineering",
+    "reference": "SE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Subsea Engineering",
+    "reference": "MSE"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of General Business",
+    "reference": "BGB"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Criminology",
+    "reference": "BC"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Public Service Leadership",
+    "reference": "BPSL"
+  },
+  {
+    "level": "master",
+    "title": "Master of Human Resource Management",
+    "reference": "MHRM"
+  },
+  {
+    "level": "master",
+    "title": "Master of Finance",
+    "reference": "MF"
+  },
+  {
+    "level": "master",
+    "title": "Master of Instructional Design and Technology",
+    "reference": "MIDAT"
+  },
+  {
+    "level": "master",
+    "title": "Master of Engineering Management",
+    "reference": "MEM"
+  },
+  {
+    "level": "master",
+    "title": "Master of Software Engineering",
+    "reference": "MSE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Systems Engineering",
+    "reference": "MSE"
+  },
+  {
+    "level": "certificate",
+    "title": "7-12 Technology Applications",
+    "reference": "7TA"
+  },
+  {
+    "level": "certificate",
+    "title": "EC-12 Technology Applications",
+    "reference": "ETA"
+  },
+  {
+    "level": "certificate",
+    "title": "Distance Educator Certificate",
+    "reference": "DEC"
+  },
+  {
+    "level": "certificate",
+    "title": "Fitness and Human Performance",
+    "reference": "FAHP"
+  },
+  {
+    "level": "certificate",
+    "title": "Master Technology Teacher",
+    "reference": "MTT"
+  },
+  {
+    "level": "certificate",
+    "title": "Performance Technology",
+    "reference": "PT"
+  },
+  {
+    "level": "certificate",
+    "title": "Software Engineering",
+    "reference": "SE"
+  },
+  {
+    "level": "certificate",
+    "title": "Systems Engineering",
+    "reference": "SE"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Enterprise Information Systems",
+    "reference": "BEIS"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Insurance and Risk Management",
+    "reference": "BIARM"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of International Business",
+    "reference": "BIB"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Management",
+    "reference": "BM"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Marketing",
+    "reference": "BM"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Supply Chain Management",
+    "reference": "BSCM"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Humanities",
+    "reference": "BH"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Professional Writing",
+    "reference": "BPW"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Applied Administration",
+    "reference": "BAA"
+  },
+  {
+    "level": "master",
+    "title": "Master of Non-Profit Management",
+    "reference": "MNM"
+  },
+  {
+    "level": "master",
+    "title": "Master of Teaching",
+    "reference": "MT"
+  },
+  {
+    "level": "certificate",
+    "title": "AutoCAD Certification",
+    "reference": "AC"
+  },
+  {
+    "level": "certificate",
+    "title": "Professional Land Management",
+    "reference": "PLM"
+  },
+  {
+    "level": "certificate",
+    "title": "Retail Management",
+    "reference": "RM"
+  },
+  {
+    "level": "certificate",
+    "title": "Right of Way",
+    "reference": "RW"
+  },
+  {
+    "level": "certificate",
+    "title": "Skills for the 21st Century",
+    "reference": "SFT2C"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Humanities-Creative Writing",
+    "reference": "BHW"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Humanities-English",
+    "reference": "BH"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Humanities-History",
+    "reference": "BH"
+  },
+  {
+    "level": "bachelor",
+    "title": "Bachelor of Healthcare Administration",
+    "reference": "BHA"
+  },
+  {
+    "level": "master",
+    "title": "Master of Computer Information Systems",
+    "reference": "MCIS"
+  },
+  {
+    "level": "master",
+    "title": "Master of Publishing",
+    "reference": "MP"
+  },
+  {
+    "level": "master",
+    "title": "Master of Global M.B.A",
+    "reference": "MGMBA"
+  },
+  {
+    "level": "master",
+    "title": "Master of Global M.B.A. Bridge",
+    "reference": "MGMBAB"
+  },
+  {
+    "level": "master",
+    "title": "Master of Strategic M.B.A.",
+    "reference": "MSM"
+  },
+  {
+    "level": "master",
+    "title": "Master of Strategic M.B.A. Bridge",
+    "reference": "MSMB"
+  },
+  {
+    "level": "master",
+    "title": "Master of Economic Development and Entrepreneurship",
+    "reference": "MEDAE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Adult and Higher Education",
+    "reference": "MAAHE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Literacy Studies",
+    "reference": "MLS"
+  },
+  {
+    "level": "master",
+    "title": "Master of Special Education-Autism Spectrum Disorders",
+    "reference": "MSESD"
+  },
+  {
+    "level": "master",
+    "title": "Master of Elementary Education",
+    "reference": "MEE"
+  },
+  {
+    "level": "certificate",
+    "title": "Professional Coaching",
+    "reference": "PC"
+  },
+  {
+    "level": "certificate",
+    "title": "Reading Specialist Certification",
+    "reference": "RSC"
+  },
+  {
+    "level": "certificate",
+    "title": "Superintendent Certification",
+    "reference": "SC"
+  },
+  {
+    "level": "certificate",
+    "title": "Victoria Online Initial Certification for Educators",
+    "reference": "VOICFE"
+  },
+  {
+    "level": "master",
+    "title": "Master of Computer Science",
+    "reference": "MCS"
+  },
+  {
+    "level": "master",
+    "title": "Master of Creative Writing",
+    "reference": "MCW"
+  },
+  {
+    "level": "master",
+    "title": "Master of Curriculum and Instruction - Educational Technology",
+    "reference": "MCAI-ET"
+  },
+  {
+    "level": "certificate",
+    "title": "Master Reading Teacher (MRT) Certification",
+    "reference": "MRTC"
+  }
+]

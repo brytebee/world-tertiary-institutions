@@ -1,0 +1,234 @@
+{
+  "undergrad": [
+    {
+      "title": "Bachelor's Degree",
+      "accr": "B.A., B.S., B.Ed., BEng, etc."
+    },
+    {
+      "title": "Associate Degree",
+      "accr": "A.A., A.S., etc."
+    },
+    {
+      "title": "Foundation Degree",
+      "accr": "FdA, FdSc, etc."
+    },
+    {
+      "title": "Diploma",
+      "accr": "Dip."
+    },
+    {
+      "title": "Higher National Diploma",
+      "accr": "HND"
+    },
+    {
+      "title": "National Diploma",
+      "accr": "ND"
+    },
+    {
+      "title": "Ordinary National Diploma",
+      "accr": "OND"
+    },
+    {
+      "title": "Certificate of Higher Education",
+      "accr": "CertHE"
+    },
+    {
+      "title": "Advanced Diploma",
+      "accr": "AdvDip"
+    },
+    {
+      "title": "Professional Degree",
+      "accr": "e.g., BArch for architecture"
+    }
+  ],
+  "postgrad": [
+    {
+      "title": "Master's Degree",
+      "accr": "M.A., M.S., M.Ed., MEng, etc."
+    },
+    {
+      "title": "Postgraduate Diploma",
+      "accr": "PGD"
+    },
+    {
+      "title": "Graduate Diploma",
+      "accr": "GradD, GDip, GrDip, GradDip"
+    },
+    {
+      "title": "Master of Business Administration",
+      "accr": "MBA"
+    },
+    {
+      "title": "Executive Master of Business Administration",
+      "accr": "EMBA"
+    },
+    {
+      "title": "Master of Laws",
+      "accr": "LL.M."
+    },
+    {
+      "title": "Master of Philosophy",
+      "accr": "M.Phil."
+    },
+    {
+      "title": "Master of Research",
+      "accr": "M.Res."
+    },
+    {
+      "title": "Master of Fine Arts",
+      "accr": "MFA"
+    },
+    {
+      "title": "Master of Public Administration",
+      "accr": "MPA"
+    },
+    {
+      "title": "Master of Public Health",
+      "accr": "MPH"
+    },
+    {
+      "title": "Master of Social Work",
+      "accr": "MSW"
+    },
+    {
+      "title": "Master of Science in Nursing",
+      "accr": "MSN"
+    },
+    {
+      "title": "Doctor of Medicine",
+      "accr": "MD"
+    },
+    {
+      "title": "Doctor of Dental Surgery",
+      "accr": "DDS"
+    },
+    {
+      "title": "Juris Doctor",
+      "accr": "JD"
+    },
+    {
+      "title": "Doctor of Pharmacy",
+      "accr": "Pharm.D."
+    },
+    {
+      "title": "Doctor of Veterinary Medicine",
+      "accr": "DVM"
+    }
+  ],
+  "doctoral": [
+    {
+      "title": "Doctor of Philosophy",
+      "accr": "Ph.D."
+    },
+    {
+      "title": "Doctor of Education",
+      "accr": "Ed.D."
+    },
+    {
+      "title": "Doctor of Psychology",
+      "accr": "Psy.D."
+    },
+    {
+      "title": "Doctor of Business Administration",
+      "accr": "DBA"
+    },
+    {
+      "title": "Doctor of Engineering",
+      "accr": "Eng.D."
+    },
+    {
+      "title": "Doctor of Nursing Practice",
+      "accr": "DNP"
+    },
+    {
+      "title": "Doctor of Medicine",
+      "accr": "MD"
+    },
+    {
+      "title": "Doctor of Dental Surgery",
+      "accr": "DDS"
+    },
+    {
+      "title": "Doctor of Juridical Science",
+      "accr": "SJD"
+    },
+    {
+      "title": "Doctor of Veterinary Medicine",
+      "accr": "DVM"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Chartered Accountant",
+      "accr": "CA"
+    },
+    {
+      "title": "Certified Public Accountant",
+      "accr": "CPA"
+    },
+    {
+      "title": "Chartered Financial Analyst",
+      "accr": "CFA"
+    },
+    {
+      "title": "Project Management Professional",
+      "accr": "PMP"
+    },
+    {
+      "title": "Certified Information Systems Auditor",
+      "accr": "CISA"
+    },
+    {
+      "title": "Certified Management Accountant",
+      "accr": "CMA"
+    },
+    {
+      "title": "Chartered Institute of Personnel and Development",
+      "accr": "CIPD"
+    },
+    {
+      "title": "Chartered Engineer",
+      "accr": "CEng"
+    },
+    {
+      "title": "Chartered Marketer",
+      "accr": "CM"
+    },
+    {
+      "title": "Certified Financial Planner",
+      "accr": "CFP"
+    },
+    {
+      "title": "Certified Fraud Examiner",
+      "accr": "CFE"
+    },
+    {
+      "title": "Cisco Certified Network Associate",
+      "accr": "CCNA"
+    },
+    {
+      "title": "Microsoft Certified Professional",
+      "accr": "MCP"
+    },
+    {
+      "title": "Certified ScrumMaster",
+      "accr": "CSM"
+    },
+    {
+      "title": "Certified Ethical Hacker",
+      "accr": "CEH"
+    },
+    {
+      "title": "CompTIA A+ Certification",
+      "accr": "CompTIA A+"
+    },
+    {
+      "title": "Nursing certifications",
+      "accr": "e.g., Registered Nurse (RN), Certified Nurse Midwife (CNM), etc."
+    },
+    {
+      "title": "Teaching certifications",
+      "accr": "e.g., Qualified Teacher Status (QTS) in the UK"
+    }
+  ]
+}
